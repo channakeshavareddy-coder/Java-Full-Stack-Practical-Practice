@@ -54,15 +54,16 @@ For each technology or concept, I focus on:
 
 ## 📈 Progress  
 This repository will be continuously updated as I learn new technologies, practice concepts, build implementations, and develop projects.  
+```text
 |------------|--------------------------------------------------------------------------------|  
-| **Area**   | **Technologies**                                                               |  
+|   Area     |   Technologies                                                                 |  
 |------------|--------------------------------------------------------------------------------|   
 | Frontend   | HTML5, CSS, JavaScript, React                                                  |  
 | APIs       | API Development and Integration                                                |  
 | Backend    | Core Java, JDBC, Servlets, Spring, Spring Boot, Spring MVC, Hibernate / JPA    |  
 | Database   | PostgreSQL, SQL                                                                |  
 |------------|--------------------------------------------------------------------------------|  
-
+```
 ## 🚀 Projects
 Projects will be added to this repository as I progress through my Java Full Stack learning journey.  
 Each project will focus on applying the concepts and technologies learned through practical development.  
