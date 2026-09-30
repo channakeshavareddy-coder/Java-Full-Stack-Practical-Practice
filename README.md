@@ -6,6 +6,7 @@ Welcome to my **Java Full Stack Practical Practice Repository**.
 This repository contains my practical learning, hands-on coding, implementations, and project development as I learn and build skills in **Java Full Stack Development**.
 
 </div>
+
 ## 📂 Repository Structure
 
 **Java-Full-Stack-Practical-Practice**
@@ -54,7 +55,7 @@ For each technology or concept, I focus on:
 ## 📈 Progress  
 This repository will be continuously updated as I learn new technologies, practice concepts, build implementations, and develop projects.  
 |------------|--------------------------------------------------------------------------------|  
-| Area       | Technologies                                                                   |  
+| **Area**   | **Technologies**                                                               |  
 |------------|--------------------------------------------------------------------------------|   
 | Frontend   | HTML5, CSS, JavaScript, React                                                  |  
 | APIs       | API Development and Integration                                                |  
