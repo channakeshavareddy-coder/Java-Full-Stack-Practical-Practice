@@ -14,27 +14,9 @@ This repository contains my practical learning, hands-on coding, implementations
 ```text
 Java-Full-Stack-Practical-Practice/
             │
-            ├── 01_Frontend/
-            │       ├── 01_HTML5/
-            │       ├── 02_CSS/
-            │       ├── 03_JavaScript/
-            │       └── 04_React_JS/
-            │
-            ├── 02_APIs/
-            │
-            ├── 03_Backend/
-            │       ├── 01_CoreJava/
-            │       ├── 02_JDBC/
-            │       ├── 03_Servlets/
-            │       ├── 04_Spring_Ecosystem/
-            │       │       ├── 01_Spring_Framework/
-            │       │       ├── 02_Spring_Boot/
-            │       │       └── 03_Spring_MVC/
-            │       └── 05_Hibernate_JPA/
-            │
-            ├── 04_Databases/
-            │           └── PostgreSQL/
-            │
+            ├── 01_CoreJava/
+            │       ├── Day1.java
+            │       
             └── README.md
 ```
 
@@ -71,15 +53,6 @@ Each project will focus on applying the concepts and technologies learned throug
 ## 💡 About This Repository
 This repository represents my **practical learning and development journey** in Java Full Stack Development.  
 The goal is not only to learn technologies but also to gain hands-on experience by writing code, building implementations, debugging problems, and developing real-world projects.
-
-## 🔄 Continuous Learning
-I will continuously update this repository with:
-- New concepts
-- Practice programs
-- Implementations
-- Projects
-- Improvements
-- Debugging practice
 
 ## ⭐ Support
 If you find this repository helpful, consider giving it a ⭐.
