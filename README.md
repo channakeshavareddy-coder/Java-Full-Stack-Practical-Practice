@@ -16,6 +16,7 @@ Java-Full-Stack-Practical-Practice/
             │
             ├── 01_CoreJava/
             │       ├── Day1.java
+            |       ├── Day2.java
             │       
             └── README.md
 ```
